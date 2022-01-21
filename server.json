@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "image": "https://www.comidaereceitas.com.br/wp-content/uploads/2017/07/torta_holandesa.jpg",
+      "name": "Torta",
+      "price": "20.0",
+      "description": "pqjdpqjwd",
+      "available": true,
+      "id": 2
+    },
+    {
+      "image": "https://www.comidaereceitas.com.br/wp-content/uploads/2017/07/torta_holandesa.jpg",
+      "name": "Torta",
+      "price": "30.0",
+      "description": "wijdiqjd",
+      "available": true,
+      "id": 3
+    },
+    {
+      "image": "https://www.comidaereceitas.com.br/wp-content/uploads/2017/07/torta_holandesa.jpg",
+      "name": "Samuel",
+      "price": "20.0",
+      "description": "O cu de samuel",
+      "available": true,
+      "id": 4
+    }
+  ]
+}
